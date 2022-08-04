@@ -1,3 +1,8 @@
+title: shawvyu个人站
+timezone: Asia/Shanghai
+author: shawvyu
+tag_plantuml:
+	type: static
 deploy:
   type: git
   repo: https://github.com/shawvyu/shawvyu.github.io
